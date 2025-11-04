@@ -205,6 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-Section1_Introduction/.deepeval/.deepeval_telemetry.txt
-.deepeval/.deepeval_telemetry.txt
+Section1_Introduction/.deepeval/
+.deepeval/
 .env.local
+Section1_Introduction/TestGoldenDataSet/
